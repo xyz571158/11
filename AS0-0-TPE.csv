@@ -1,3 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-141.11.86.94,45888,443,true,TPE,Asia Pacific,Taipei,189,10.36
-83.147.13.207,11126,443,true,TPE,Asia Pacific,Taipei,187,4.11
+34.96.128.217,8443,443,true,TPE,Asia Pacific,Taipei,16,49.76
+141.11.86.94,18333,443,true,TPE,Asia Pacific,Taipei,186,14.39
+188.64.110.40,10000,80,false,TPE,Asia Pacific,Taipei,31,4.68
+188.64.110.40,13000,80,false,TPE,Asia Pacific,Taipei,33,4.67
