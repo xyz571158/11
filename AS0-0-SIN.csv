@@ -1,6 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-54.251.167.101,443,443,true,SIN,Asia Pacific,Singapore,55,33.45
-120.220.19.103,2052,2052,false,SIN,Asia Pacific,Singapore,48,9.48
-120.220.19.109,2052,2052,false,SIN,Asia Pacific,Singapore,51,7.24
-120.220.19.109,2082,2082,false,SIN,Asia Pacific,Singapore,48,7.23
-43.156.253.94,443,443,true,SIN,Asia Pacific,Singapore,193,2.82
+54.151.243.2,443,443,true,SIN,Asia Pacific,Singapore,53,33.38
+185.225.20.3,777,443,true,SIN,Asia Pacific,Singapore,205,2.15
+138.2.126.170,443,443,true,SIN,Asia Pacific,Singapore,245,0.92
+43.156.253.94,443,443,true,SIN,Asia Pacific,Singapore,207,0.09
