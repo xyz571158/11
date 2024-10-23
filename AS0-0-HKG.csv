@@ -1,5 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-47.83.18.47,443,443,true,HKG,Asia Pacific,HK,Hong Kong,18,4.03
+34.96.202.20	443	443	TRUE	HKG	Asia Pacific	HK	Hong Kong	22	4.48
 58.176.95.46,443,443,true,HKG,Asia Pacific,HK,Hong Kong,77,2.79
 94.74.100.2,13080,80,false,HKG,Asia Pacific,HK,Hong Kong,167,1.94
 223.222.13.132,30491,443,true,HKG,Asia Pacific,HK,Hong Kong,189,0.60
